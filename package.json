@@ -1,7 +1,7 @@
 {
   "name": "diplom-prueba3-1",
   "version": "0.1.0",
-	"homepage": "https://Kelias1.github.io/diplom-prueba3-1",
+  "homepage": "https://Kelias1.github.io/diplom-prueba3-1",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.7",
@@ -9,6 +9,7 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "crypto-js": "^4.2.0",
+    "npm-watch": "^0.13.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-redux": "^9.1.2",
@@ -17,6 +18,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+		"watch": "npm-watch",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
@@ -45,5 +47,13 @@
   "devDependencies": {
     "concurrently": "^9.0.1",
     "gh-pages": "^6.1.1"
+  },
+	"watch": {
+    "build": {
+      "patterns": [
+        "src"
+      ],
+      "extensions": "js,jsx"
+    }
   }
 }
