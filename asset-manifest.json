@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/diplom-prueba3-1/static/css/main.2b112b5a.css",
-    "main.js": "/diplom-prueba3-1/static/js/main.f45a4690.js",
+    "main.js": "/diplom-prueba3-1/static/js/main.eac5265b.js",
     "static/js/453.30128488.chunk.js": "/diplom-prueba3-1/static/js/453.30128488.chunk.js",
     "static/media/banner.jpg": "/diplom-prueba3-1/static/media/banner.5fd2c60d58a8686daee0.jpg",
     "static/media/footer-sprite.png": "/diplom-prueba3-1/static/media/footer-sprite.b3d5697aeb76ce9f8002.png",
     "index.html": "/diplom-prueba3-1/index.html",
     "main.2b112b5a.css.map": "/diplom-prueba3-1/static/css/main.2b112b5a.css.map",
-    "main.f45a4690.js.map": "/diplom-prueba3-1/static/js/main.f45a4690.js.map",
+    "main.eac5265b.js.map": "/diplom-prueba3-1/static/js/main.eac5265b.js.map",
     "453.30128488.chunk.js.map": "/diplom-prueba3-1/static/js/453.30128488.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2b112b5a.css",
-    "static/js/main.f45a4690.js"
+    "static/js/main.eac5265b.js"
   ]
 }
